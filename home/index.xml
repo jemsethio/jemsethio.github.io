@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Jemal Seid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Weikun Han</copyright>
+    <copyright>&amp;copy; 2019 Jemal Seid</copyright>
     <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jemsethio.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -93,25 +93,25 @@ I am a teaching instructor for the following courses at University X:
       <link>https://jemsethio.github.io/home/posts/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://weikunhan.github.io/home/posts/</guid>
+      <guid>https://jemsethio.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://weikunhan.github.io/home/tags/</link>
+      <link>https://jemsethio.github.io/home/tags/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://weikunhan.github.io/home/tags/</guid>
+      <guid>https://jemsethio.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://weikunhan.github.io/home/contact/</link>
+      <link>https://jemsethio.github.io/home/contact/</link>
       <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://weikunhan.github.io/home/contact/</guid>
+      <guid>https://jemsethio.github.io/home/contact/</guid>
       <description></description>
     </item>
     
